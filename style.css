@@ -1,0 +1,27 @@
+body  {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;    
+}
+
+.container{
+    width: 100%;
+    max-width: 800px;
+    font-weight: normal; 
+   
+    
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header__photo{
+    padding: 20px;
+}
+
+.header__title{
+    align-self: center;
+    text-align: left;   
+    font-weight: normal;
+    padding: 5px 300px 5px 5px;
+}
