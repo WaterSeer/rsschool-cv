@@ -27,8 +27,8 @@ Project: Programming PLC controllers for machinery
 
 ---
 
-**Education**
-The Rolling Scopes School (https://school.rollingscopes.com/), 09.2020 – 02.2021, 
+**Education**  
+The Rolling Scopes School (https://school.rollingscopes.com/), 09.2020 – 02.2021   
 Volgograd State Technical University, Volgograd, Russia                                                                             
  Engineer (Bachelor Degree) 
 
