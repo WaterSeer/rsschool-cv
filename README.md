@@ -1,4 +1,4 @@
 # rsschool-cv
 my CV for RS-school
 
-https://github.com/WaterSeer/rsschool-cv/cv
+https://your-github-account.github.io/rsschool-cv/
